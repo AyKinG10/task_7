@@ -1,0 +1,23 @@
+{
+  "name": "task7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.2.4",
+    "nodemailer": "^6.9.13"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
